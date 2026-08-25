@@ -15,7 +15,6 @@ build/
 .env.production.local
 
 # IDE and editor files
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -110,3 +109,7 @@ temp/
 
 # Manus version file (auto-generated, not part of source)
 client/public/__manus__/version.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
